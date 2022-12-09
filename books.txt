@@ -1,0 +1,1000 @@
+1|Krondor: The Betrayal|Raymond E. Feist|4|12|12
+2|The Dark Is Rising|Susan Cooper|1|11|11
+3|The Black Unicorn |Terry Brooks|3|14|14
+4|I Robot|Isaac Asimov|4|17|17
+5|Four Blondes|Candace Bushnell|4|16|16
+6|Love Stargirl|Jerry Spinelli|1|12|12
+7|The Tenth Circle|Jodi Picoult|4|13|13
+8|Vanishing Acts|Jodi Picoult|2|19|19
+9|Aztec|Gary Jennings|2|11|11
+10|Marlfox|Brian Jacques|2|6|6
+11|Lady Midnight|Cassandra Clare|4|19|19
+12|The Secret Keeper|Kate Morton|1|14|14
+13|The Afghan|Frederick Forsyth|2|6|6
+14|A Touch of Dead|Charlaine Harris|2|5|5
+15|Daja's Book|Tamora Pierce|1|10|10
+16|Steve Jobs|Walter Isaacson|1|8|8
+17|Cold Fire|Tamora Pierce|2|8|8
+18|Thanks for the Memories|Cecelia Ahern|3|11|11
+19|Bitterblue|Kristin Cashore|4|20|20
+20|Daisy Miller|Henry James|3|7|7
+21|The Brothers K|David James Duncan|1|14|14
+22|The Pact|Jodi Picoult|1|9|9
+23|Plum Spooky|Janet Evanovich|4|7|7
+24|Twice Tempted |Jeaniene Frost|4|9|9
+25|Legend|Marie Lu|1|6|6
+26|Thr3e|Ted Dekker|3|14|14
+27|The Lion's Game|Nelson DeMille|1|19|19
+28|The Rainmaker|John Grisham|3|11|11
+29|Eleanor & Park|Rainbow Rowell|1|12|12
+30|The Lightning Thief|Rick Riordan|2|16|15
+31|The Final Detail|Harlan Coben|1|18|17
+32|A Cry in the Night|Mary Higgins Clark|2|19|19
+33|Half Bad|Sally Green|2|10|10
+34|Lady Windermere's Fan|Oscar Wilde|4|20|20
+35|The Awakening|Kelley Armstrong|1|15|15
+36|Ham on Rye|Charles Bukowski|1|20|20
+37|The Van Alen Legacy |Melissa de la Cruz|1|6|6
+38|A Pocket for Corduroy|Don Freeman|1|5|5
+39|The Street Lawyer|John Grisham|1|19|19
+40|Revolutionary Road|Richard Yates|2|6|6
+41|Neuromancer|William Gibson|2|12|12
+42|Catch-22|Joseph Heller|2|16|16
+43|sTORI Telling|Tori Spelling|3|18|18
+44|The Snowy Day|Ezra Jack Keats|4|15|15
+45|Invisible Monsters|Chuck Palahniuk|2|9|7
+46|Noughts & Crosses|Malorie Blackman|1|8|8
+47|Separation of Power|Vince Flynn|2|14|14
+48|The Weight of Blood|Laura McHugh|2|6|6
+49|Lincoln in the Bardo|George Saunders|4|14|14
+50|Kiss of Midnight|Lara Adrian|4|5|5
+51|Did You Ever Have a Family|Bill Clegg|1|17|17
+52|The Tiger Who Came to Tea|Judith Kerr|4|10|10
+53|Tuesday|David Wiesner|1|10|10
+54|My Man Jeeves|P.G. Wodehouse|4|18|18
+55|Hit List|Laurell K. Hamilton|2|20|20
+56|Cabal|Clive Barker|1|10|10
+57|The Sea Wolf|Jack London|1|7|7
+58|One Good Dog|Susan  Wilson|1|14|14
+59|A Knight of the Word |Terry Brooks|4|20|20
+60|The Lonely Polygamist|Brady Udall|3|13|13
+61|Born at Midnight|C.C. Hunter|3|13|13
+62|Lover Reborn|J.R. Ward|4|18|18
+63|The Plot Against America|Philip Roth|2|10|10
+64|I Am Legend |Richard Matheson|1|11|11
+65|Hex Hall|Rachel Hawkins|3|13|13
+66|It|Stephen King|3|16|16
+67|The Player of Games|Iain M. Banks|2|8|8
+68|The Waves|Virginia Woolf|2|5|5
+69|The Angel Experiment|James Patterson|4|14|14
+70|Teen Idol|Meg Cabot|1|9|9
+71|Armageddon's Children|Terry Brooks|2|5|5
+72|Legend |David Gemmell|1|8|8
+73|The Thief|Megan Whalen Turner|4|8|8
+74|Welcome to Temptation|Jennifer Crusie|4|7|7
+75|The Gods Themselves|Isaac Asimov|2|5|5
+76|Bullet|Laurell K. Hamilton|4|11|11
+77|A Dog's Purpose |W. Bruce Cameron|1|12|12
+78|The Devil You Know|Mike Carey|1|9|9
+79|number9dream|David Mitchell|3|9|9
+80|A Week to Be Wicked|Tessa Dare|4|18|18
+81|A Place Called Here|Cecelia Ahern|2|5|5
+82|Master and Commander|Patrick O'Brian|3|12|12
+83|The Six Wives of Henry VIII|Alison Weir|1|5|5
+84|Industrial Magic|Kelley Armstrong|3|10|10
+85|The Will of the Empress|Tamora Pierce|2|17|17
+86|Violets Are Blue|James Patterson|1|15|15
+87|Men at Arms|Terry Pratchett|3|12|12
+88|The Power of One|Bryce Courtenay|2|6|6
+89|A Discovery of Witches|Deborah Harkness|2|11|11
+90|Free Will|Sam Harris|1|12|12
+91|Faithless|Karin Slaughter|1|12|12
+92|Three Wishes|Liane Moriarty|4|5|5
+93|Fatherland|Robert   Harris|2|14|14
+94|Never Love a Highlander|Maya Banks|4|9|9
+95|Altered|Jennifer Rush|3|18|18
+96|Fractured|Karin Slaughter|1|13|13
+97|The Charlemagne Pursuit|Steve Berry|2|19|19
+98|I'll Be Seeing You|Mary Higgins Clark|4|12|12
+99|Wench|Dolen Perkins-Valdez|2|5|5
+100|Red Mars|Kim Stanley Robinson|3|9|9
+101|The 100|Kass Morgan|4|9|9
+102|The Mark of Athena|Rick Riordan|2|19|19
+103|Her Fearful Symmetry|Audrey Niffenegger|2|7|7
+104|Vicious|V.E. Schwab - Victoria Schwab|3|14|14
+105|Bad Girls Don't Die|Katie Alender|2|18|18
+106|Pebble in the Sky|Isaac Asimov|2|18|18
+107|Safe Harbour|Danielle Steel|4|10|10
+108|Lincoln|David Herbert Donald|2|8|8
+109|The Titan's Curse|Rick Riordan|1|14|14
+110|Tropic of Capricorn|Henry Miller|4|7|7
+111|The Bluest Eye|Toni Morrison|1|7|7
+112|Wife 22|Melanie Gideon|2|15|15
+113|Frog and Toad Together|Arnold Lobel|4|6|6
+114|The Lacuna|Barbara Kingsolver|2|13|13
+115|Slapstick|Kurt Vonnegut Jr.|1|10|10
+116|Fearless Fourteen|Janet Evanovich|3|9|9
+117|A Christmas Carol|Charles Dickens|1|13|13
+118|Straight Talking|Jane Green|4|6|6
+119|Never Let Me Go|Kazuo Ishiguro|1|12|12
+120|Ice Station Zebra|Alistair MacLean|1|17|17
+121|The Edible Woman|Margaret Atwood|4|9|9
+122|The English Assassin|Daniel Silva|1|19|19
+123|Born of the Night|Sherrilyn Kenyon|2|12|12
+124|Two Ravens and One Crow|Kevin Hearne|1|7|7
+125|Nicholas and Alexandra|Robert K. Massie|3|19|19
+126|A Grief Observed|C.S. Lewis|2|10|10
+127|Right Ho Jeeves|P.G. Wodehouse|1|10|10
+128|Mr. Perfect|Linda Howard|1|11|11
+129|Moonrise|Erin Hunter|1|11|11
+130|Moon Over Manifest|Clare Vanderpool|3|14|14
+131|MaddAddam|Margaret Atwood|3|5|5
+132|The Good Guy|Dean Koontz|4|11|11
+133|Shoe Addicts Anonymous |Beth Harbison|2|14|14
+134|The Gift|Julie Garwood|3|10|10
+135|Winter's Bone|Daniel Woodrell|4|5|5
+136|A Death in the Family|James Agee|4|7|7
+137|The Firm|John Grisham|1|11|11
+138|Antigone|Jean Anouilh|1|16|16
+139|Spook Country|William Gibson|4|18|18
+140|Esio Trot|Roald Dahl - Quentin Blake|1|19|19
+141|The Lady Elizabeth|Alison Weir|4|19|19
+142|One Crazy Summer|Rita Williams-Garcia|1|16|16
+143|Teardrop|Lauren Kate|1|7|7
+144|Fahrenheit 451|Ray Bradbury|4|16|16
+145|Independent Study|Joelle Charbonneau|4|15|15
+146|Tell Me Three Things|Julie Buxbaum|4|9|9
+147|The Brutal Telling|Louise Penny|4|20|20
+148|Wyrd Sisters|Terry Pratchett|4|9|9
+149|Little Earthquakes|Jennifer Weiner|3|15|15
+150|The City of Ember|Jeanne DuPrau|3|20|20
+151|A Gate at the Stairs|Lorrie Moore|4|14|14
+152|The Ugly Truth|Jeff Kinney|2|6|6
+153|Beauty from Pain|Georgia Cates|3|5|5
+154|Code to Zero|Ken Follett|1|17|17
+155|The Twentieth Wife|Indu Sundaresan|4|8|8
+156|The Big Nowhere|James Ellroy|2|5|5
+157|Beautiful You|Chuck Palahniuk|3|9|9
+158|Dreams of Gods & Monsters|Laini Taylor|3|12|12
+159|Dragonfly in Amber|Diana Gabaldon|4|14|14
+160|Freak the Mighty|Rodman Philbrick|4|13|13
+161|Blue Mars |Kim Stanley Robinson|2|14|14
+162|The Virgin Suicides|Jeffrey Eugenides|2|15|15
+163|Pandora's Star|Peter F. Hamilton|2|13|13
+164|Cloudstreet|Tim Winton|2|13|13
+165|The Lunatic Cafe|Laurell K. Hamilton|3|11|11
+166|Under the Tuscan Sun|Frances Mayes|2|5|5
+167|Memoirs of a Geisha|Arthur Golden|2|14|14
+168|My Friend Leonard|James Frey|4|18|18
+169|Calico Joe|John Grisham|1|18|18
+170|Girl of Nightmares|Kendare Blake|2|17|17
+171|Bad Monkey|Carl Hiaasen|2|12|12
+172|High-Rise|J.G. Ballard|3|18|18
+173|The Miniaturist|Jessie Burton|2|19|19
+174|The Last Olympian|Rick Riordan|4|15|15
+175|Trinity: A Novel of Ireland|Leon Uris|4|9|9
+176|Ford County|John Grisham|2|8|8
+177|Flowers for Algernon|Daniel Keyes|4|8|8
+178|Ellen Foster|Kaye Gibbons|2|8|8
+179|The Hollow Hills|Mary  Stewart|2|20|20
+180|Fantasy In Death|J.D. Robb|3|5|5
+181|First Among Equals|Jeffrey Archer|3|17|17
+182|Madeline's Rescue|Ludwig Bemelmans|4|14|14
+183|See Jane Date|Melissa Senate|3|17|17
+184|The Almost Moon|Alice Sebold|2|6|6
+185|Truly Madly Guilty|Liane Moriarty|4|17|17
+186|Dead Heat|Patricia Briggs|4|16|16
+187|The Obituary Writer|Ann Hood|1|15|15
+188|Parts|Tedd Arnold|4|19|19
+189|The Face|Dean Koontz|2|6|6
+190|At Grave's End|Jeaniene Frost|4|13|13
+191|The Collaborator|Margaret Leroy|1|14|14
+192|The neon rain|James Lee Burke|1|10|10
+193|Slated|Teri Terry|4|16|16
+194|Sein und Zeit|Martin Heidegger|2|19|19
+195|Saving Faith|David Baldacci|4|20|20
+196|Jurassic Park|Michael Crichton|4|15|15
+197|Chrysanthemum|Kevin Henkes|2|17|17
+198|The Emerald Atlas|John  Stephens|1|18|18
+199|Dragon Haven|Robin Hobb|3|6|6
+200|The Charm School|Nelson DeMille|2|5|5
+201|The Glass Castle|Jeannette Walls|1|20|20
+202|Hogfather|Terry Pratchett|3|13|13
+203|Plateforme|Michel Houellebecq|3|19|19
+204|The Hellbound Heart|Clive Barker|1|19|19
+205|Zodiac|Neal Stephenson|3|13|13
+206|Redemption Ark|Alastair Reynolds|3|18|18
+207|Montana Sky|Nora Roberts|2|15|15
+208|Skin Game|Jim Butcher|1|12|12
+209|The Game|Neil Strauss|2|20|20
+210|Dawn |V.C. Andrews|4|14|14
+211|Our Souls at Night|Kent Haruf|1|16|16
+212|One Day|David Nicholls|1|12|12
+213|Fire Study|Maria V. Snyder|1|8|8
+214|The Children Act|Ian McEwan|2|6|6
+215|The First Rule|Robert Crais|3|14|14
+216|Remember Me |Mary Higgins Clark|2|20|20
+217|The Heist|Daniel Silva|2|14|14
+218|The Struggle|L.J. Smith|1|5|5
+219|The Sky Is Everywhere|Jandy Nelson|2|18|18
+220|Lawrence in Arabia|Scott Anderson|4|8|8
+221|Broken Monsters|Lauren Beukes|4|7|7
+222|The Sixth Man|David Baldacci|1|6|6
+223|Tender Is the Night|F. Scott Fitzgerald|3|18|18
+224|Port Mortuary|Patricia Cornwell|3|14|14
+225|Crush|Nicole  Williams|1|15|15
+226|Thankless in Death |J.D. Robb|3|13|13
+227|The Poisonwood Bible|Barbara Kingsolver|1|9|9
+228|American on Purpose|Craig Ferguson|2|6|6
+229|Pirate Latitudes|Michael Crichton|2|10|10
+230|Again the Magic |Lisa Kleypas|4|8|8
+231|The Bone Bed|Patricia Cornwell|2|16|16
+232|Stone Mattress|Margaret Atwood|2|9|9
+233|Ship Breaker|Paolo Bacigalupi|2|6|6
+234|Enchantment|Orson Scott Card|3|10|10
+235|Night of the Living Dummy|R.L. Stine|4|13|13
+236|The Crown Tower|Michael J. Sullivan|2|10|10
+237|The Lathe of Heaven|Ursula K. Le Guin|3|18|18
+238|Crispin: The Cross of Lead|Avi|4|13|13
+239|California|Edan Lepucki|4|10|10
+240|The Song of Achilles|Madeline Miller|2|9|9
+241|Dark of the Moon|John Sandford|4|8|8
+242|Eight Hundred Grapes|Laura Dave|1|5|5
+243|Bad for You|Abbi Glines|1|12|12
+244|The Black Cat|Edgar Allan Poe|1|5|5
+245|A Wedding in December|Anita Shreve|3|5|5
+246|The Capture|Kathryn Lasky|1|10|10
+247|The Accident|Linwood Barclay|2|9|9
+248|The Providence of Fire|Brian Staveley|1|11|11
+249|The Sculptor|Scott McCloud|1|9|9
+250|Dream Chaser|Sherrilyn Kenyon|1|18|18
+251|Finding the Dream|Nora Roberts|3|5|5
+252|Web of Lies|Jennifer Estep|2|19|19
+253|The Ruby in the Smoke|Philip Pullman|3|20|20
+254|The Martian|Andy Weir|2|6|6
+255|The Light Between Oceans|M.L. Stedman|2|16|16
+256|Fallen in Love|Lauren Kate|2|17|17
+257|Pursuit of Honor|Vince Flynn|2|7|7
+258|American Assassin|Vince Flynn|2|19|19
+259|A Civil Action|Jonathan Harr|1|9|9
+260|Frog Music|Emma Donoghue|4|9|9
+261|On the Beach|Nevil Shute|3|14|14
+262|Magician|Raymond E. Feist|2|18|18
+263|The Shining Ones|David Eddings|4|12|12
+264|Skeleton Crew|Stephen King|1|7|7
+265|Skin|Ted Dekker|2|12|12
+266|Trouble in Mudbug|Jana Deleon|1|15|15
+267|Her Daughter's Dream|Francine Rivers|1|10|10
+268|Chasing Fire|Nora Roberts|4|5|5
+269|The Magicians|Lev Grossman|1|13|13
+270|Morning Noon & Night|Sidney Sheldon|4|13|13
+271|Open House|Elizabeth Berg|4|17|17
+272|Last to Die|Tess Gerritsen|2|20|20
+273|Summer Knight|Jim Butcher|3|11|11
+274|David and Goliath|Malcolm Gladwell|3|13|13
+275|As I Lay Dying|William Faulkner|3|19|19
+276|The Girl in the Steel Corset|Kady Cross|1|19|19
+277|The Romanov Prophecy|Steve Berry|1|18|18
+278|Max |James Patterson|4|13|13
+279|Sin Undone|Larissa Ione|2|8|8
+280|Moonlight Mile |Dennis Lehane|2|14|14
+281|Sepulchre|Kate Mosse|4|18|18
+282|Rock Chick Rescue|Kristen Ashley|4|19|19
+283|Jack & Jill|James Patterson|4|12|12
+284|Fracture Me|Tahereh Mafi|3|19|19
+285|How I Live Now|Meg Rosoff|1|9|9
+286|John Adams|David McCullough|4|9|9
+287|Firefly Lane|Kristin Hannah|2|12|12
+288|Mockingjay|Suzanne Collins|4|15|15
+289|An Offer From a Gentleman|Julia Quinn|3|7|7
+290|Elephants Can Remember|Agatha Christie|2|15|15
+291|Angel|James Patterson|4|16|16
+292|Succubus Blues|Richelle Mead|4|6|6
+293|Necroscope |Brian Lumley|4|18|18
+294|Cross Country|James Patterson|4|12|12
+295|The Pearls of Lutra|Brian Jacques|4|20|20
+296|The Broken Window|Jeffery Deaver|3|13|13
+297|The Truth|Terry Pratchett|3|18|18
+298|Villa Incognito|Tom Robbins|1|10|10
+299|Not Without My Daughter|Betty Mahmoody|1|12|12
+300|Flash and Bones|Kathy Reichs|2|20|20
+301|Endlessly|Kiersten White|2|5|5
+302|The Chrysalids|John Wyndham|1|15|15
+303|Rumpelstilzchen|Paul O. Zelinsky|2|20|20
+304|Obsidian|Jennifer L. Armentrout|4|6|6
+305|The Sound of Gravel|Ruth Wariner|1|14|14
+306|The Pursuit of Happyness|Chris Gardner|2|7|7
+307|Jailbird|Kurt Vonnegut Jr.|2|10|10
+308|Falling Up|Shel Silverstein|4|10|10
+309|A Walk to Remember|Nicholas Sparks|2|17|17
+310|Clockwork Prince|Cassandra Clare|3|17|17
+311|The Time Keeper|Mitch Albom|3|7|7
+312|Childhood's End|Arthur C. Clarke|3|20|20
+313|The Sorceress|Michael Scott|4|13|13
+314|Guards! Guards!|Terry Pratchett|2|12|12
+315|The Great and Secret Show|Clive Barker|3|13|13
+316|Gabriel's Inferno|Sylvain Reynard|4|12|12
+317|E Is for Evidence|Sue Grafton|3|6|6
+318|Memories of Ice|Steven Erikson|1|10|10
+319|Calculated in Death|J.D. Robb|3|6|6
+320|Catherine Called Birdy|Karen Cushman|1|14|14
+321|Can Love Happen Twice?|Ravinder Singh|2|7|7
+322|Twenties Girl|Sophie Kinsella|4|7|7
+323|The Secret Speech|Tom Rob Smith|2|13|13
+324|The Ringworld Engineers |Larry Niven|1|13|13
+325|Bloody Valentine|Melissa de la Cruz|3|18|18
+326|Garden Spells|Sarah Addison Allen|4|10|10
+327|Chasing Darkness|Robert Crais|4|14|14
+328|The Magician's Apprentice|Trudi Canavan|4|12|12
+329|Earth Abides|George R. Stewart|4|6|6
+330|Keeping You a Secret|Julie Anne Peters|4|20|20
+331|The White Rose|Glen Cook|3|17|17
+332|A Spell for Chameleon|Piers Anthony|1|10|10
+333|Midnight Tides|Steven Erikson|2|8|8
+334|PS I Love You|Cecelia Ahern|1|19|19
+335|The Saving Graces|Patricia Gaffney|3|9|9
+336|Daughter of the Forest|Juliet Marillier|1|19|19
+337|Sea Swept|Nora Roberts|2|18|18
+338|The Shining|Stephen King|4|6|6
+339|Bloodline|Sidney Sheldon|1|16|16
+340|Touching Spirit Bear|Ben Mikaelsen|3|18|18
+341|Life of Pi|Yann Martel|4|5|5
+342|Torment|Lauren Kate|1|14|14
+343|Nutshell|Ian McEwan|1|12|12
+344|The Wizard Heir|Cinda Williams Chima|1|17|17
+345|Big Rock|Lauren Blakely|4|12|12
+346|Mercy|Jodi Picoult|4|13|13
+347|True Colors|Kristin Hannah|2|13|13
+348|L.A. Requiem|Robert Crais|4|11|11
+349|Seven Years to Sin|Sylvia Day|2|12|12
+350|If There Be Thorns|V.C. Andrews|4|6|6
+351|The Desert Spear|Peter V. Brett|2|16|16
+352|Grey|E.L. James|2|18|18
+353|Brother Odd|Dean Koontz|1|10|10
+354|The Firm|John Grisham|2|7|7
+355|Tricks|Ellen Hopkins|1|20|20
+356|Into the Wild|Erin Hunter|3|12|12
+357|The Never War|D.J. MacHale|4|13|13
+358|Delirium|Lauren Oliver|3|12|12
+359|Magic's Price|Mercedes Lackey|1|16|16
+360|Two States|Chetan Bhagat|2|20|20
+361|Footfall|Larry Niven Jerry Pournelle|4|12|12
+362|Zita the Spacegirl|Ben Hatke|3|5|5
+363|Waiting|Ha Jin|1|9|9
+364|Throne of Glass|Sarah J. Maas|3|10|10
+365|The Book of Negroes|Lawrence Hill|3|8|8
+366|The Wolf of Wall Street|Jordan Belfort|2|8|8
+367|It's In His Kiss|Julia Quinn|3|19|19
+368|Portrait in Death|J.D. Robb|2|16|16
+369|Islands in the Stream|Ernest Hemingway|1|7|7
+370|Darke|Angie Sage Mark Zug|2|11|11
+371|The Cove|Catherine Coulter|1|5|5
+372|Fablehaven|Brandon Mull|2|19|19
+373|Break No Bones|Kathy Reichs|2|17|17
+374|Too Much Happiness|Alice Munro|4|6|6
+375|Without Remorse|Tom Clancy|1|10|10
+376|Wild Cards|Simone Elkeles|3|5|5
+377|The Fuck-Up|Arthur Nersesian|2|13|13
+378|Throne of Jade|Naomi Novik|1|17|17
+379|One False Move|Harlan Coben|2|11|11
+380|A Matter of Honor|Jeffrey Archer|3|19|19
+381|Trunk Music|Michael Connelly|4|7|7
+382|Monsters|Ilsa J. Bick|1|8|8
+383|Calamity|Brandon Sanderson|3|20|20
+384|Amadeus|Peter Shaffer|3|13|13
+385|The Sky is Falling|Sidney Sheldon|1|20|20
+386|A Civil Campaign|Lois McMaster Bujold|1|7|7
+387|Rush|Maya Banks|1|16|16
+388|The Brass Verdict|Michael Connelly|1|19|19
+389|Ladies' Night |Mary Kay Andrews|1|12|12
+390|Sharp Objects|Gillian Flynn|3|19|19
+391|The Incredible Journey|Sheila Burnford|1|13|13
+392|Where We Belong|Emily Giffin|4|8|8
+393|The Guilty|David Baldacci|2|14|14
+394|Ruby|Cynthia Bond|3|19|19
+395|Galveston|Nic Pizzolatto|2|11|11
+396|The Pagan Stone|Nora Roberts|3|15|15
+397|God Emperor of Dune|Frank Herbert|2|5|5
+398|Seduction in Death|J.D. Robb|2|20|20
+399|The Duchess War|Courtney Milan|1|19|19
+400|Over Sea Under Stone|Susan Cooper|3|6|6
+401|Burn|Maya Banks|4|7|7
+402|The Orphan Master's Son|Adam Johnson|3|8|8
+403|The Last Star|Rick Yancey|3|20|20
+404|Intensity|Dean Koontz|1|10|10
+405|Going Too Far|Jennifer Echols|2|14|14
+406|The Guard|Kiera Cass|4|16|16
+407|Alex Cross Run|James Patterson|1|7|7
+408|Need|Carrie Jones|1|12|12
+409|Screw It Let's Do It|Richard Branson|1|12|12
+410|The Codex|Douglas Preston|3|15|15
+411|The Revenge of Seven|Pittacus Lore|4|18|18
+412|King Solomon's Mines|H. Rider Haggard|2|5|5
+413|Good Grief|Lolly Winston|2|18|18
+414|Extras|Scott Westerfeld|3|18|18
+415|The Dharma Bums|Jack Kerouac|3|16|16
+416|Life after God|Douglas Coupland|4|15|15
+417|London Bridges|James Patterson|4|19|19
+418|The Lost Years of Merlin|T.A. Barron|1|19|19
+419|Fish In A Tree|Lynda Mullaly Hunt|2|5|5
+420|Darkest Fear|Harlan Coben|4|7|7
+421|A Long Way From Chicago|Richard Peck|1|10|10
+422|Bearing an Hourglass|Piers Anthony|2|8|8
+423|The Life We Bury|Allen Eskens|1|6|6
+424|The Winter Rose|Jennifer Donnelly|1|20|20
+425|Moscow Rules|Daniel Silva|3|12|12
+426|The Once and Future King|T.H. White|3|20|20
+427|Ashfall|Mike Mullin|3|10|10
+428|Equus : a play|Peter Shaffer|3|6|6
+429|Warm Bodies|Isaac Marion|2|9|9
+430|Harvesting the Heart|Jodi Picoult|2|16|16
+431|Pale Demon|Kim Harrison|2|16|16
+432|Consent to Kill|Vince Flynn|1|11|11
+433|I'll Give You the Sun|Jandy Nelson|3|18|18
+434|Reaper Man|Terry Pratchett|3|18|18
+435|Sing You Home|Jodi Picoult|1|17|17
+436|The Brooklyn Follies|Paul Auster|2|13|13
+437|Plague|Michael  Grant|2|19|19
+438|The Keep |F. Paul Wilson|4|17|17
+439|People of the Book|Geraldine Brooks|2|20|20
+440|Fairest|Marissa Meyer|4|20|20
+441|Spells|Aprilynne Pike|4|11|11
+442|The Auschwitz Escape|Joel C. Rosenberg|3|5|5
+443|The Survivors Club|Lisa Gardner|1|10|10
+444|The Vacationers|Emma Straub|4|16|16
+445|Imajica|Clive Barker|4|20|20
+446|Pop Goes the Weasel|James Patterson|3|17|17
+447|Lord Brocktree|Brian Jacques|1|11|11
+448|Suspect|Robert Crais|2|10|10
+449|Whispers|Dean Koontz|3|20|20
+450|In Cold Blood|Truman Capote|1|13|13
+451|Tar Baby|Toni Morrison|4|16|16
+452|What Alice Forgot|Liane Moriarty|2|18|18
+453|Wild Fire|Nelson DeMille|1|12|12
+454|Area 7|Matthew Reilly|4|14|14
+455|While I Was Gone|Sue Miller|3|19|19
+456|The Painter|Peter Heller|4|9|9
+457|Fool's Quest|Robin Hobb|4|20|20
+458|Ceremony|Leslie Marmon Silko|4|15|15
+459|Black Order|James Rollins|3|7|7
+460|Siege of Darkness|R.A. Salvatore|3|18|18
+461|On the Fence|Kasie West|2|12|12
+462|Princess in the Spotlight|Meg Cabot|1|17|17
+463|Champion|Marie Lu|2|9|9
+464|Canada|Richard Ford|1|17|17
+465|Stone Soup|Jon J. Muth|3|12|12
+466|Rebel Heart|Moira Young|2|11|11
+467|I Was So Mad (Look-Look)|Mercer Mayer|4|18|18
+468|Dragon Prince|Melanie Rawn|1|7|7
+469|The Bronze Bow|Elizabeth George Speare|2|19|19
+470|Red|Ted Dekker|2|15|15
+471|Miles to Go|Richard Paul Evans|3|5|5
+472|After We Fell|Anna Todd|3|12|12
+473|City of Bones|Michael Connelly|4|8|8
+474|Dark Prince|Christine Feehan|2|12|12
+475|Twenty Boy Summer|Sarah Ockler|4|19|19
+476|Nevermore|James Patterson|2|6|6
+477|Contact|Carl Sagan|2|16|16
+478|Class A (Cherub #2)|Robert Muchamore|4|17|17
+479|The Taking|Dean Koontz|2|15|15
+480|Dreams from My Father|Barack Obama|2|18|18
+481|Austenland|Shannon Hale|3|18|18
+482|Wondrous Strange|Lesley Livingston|3|6|6
+483|White Cat|Holly Black|2|10|10
+484|First Drop of Crimson|Jeaniene Frost|3|14|14
+485|Ricochet|Sandra Brown|4|9|9
+486|Back on Blossom Street|Debbie Macomber|1|9|9
+487|When She Woke|Hillary Jordan|4|12|12
+488|Mister B. Gone|Clive Barker|4|18|18
+489|Shattered|K.R. Dwyer Dean Koontz|3|14|14
+490|The House On Tradd Street|Karen   White|3|20|20
+491|Dorothy Must Die|Danielle  Paige|3|19|19
+492|The Shelters of Stone|Jean M. Auel|4|14|14
+493|Perfect|Sara Shepard|3|12|12
+494|Rebel Angels|Libba Bray|2|6|6
+495|Visions of Sugar Plums|Janet Evanovich|2|8|8
+496|The Bees|Laline Paull|4|8|8
+497|Light in August|William Faulkner|1|11|11
+498|Blood Promise|Richelle Mead|4|8|8
+499|Heart of Darkness|Joseph Conrad|3|20|20
+500|Fear of Flying|Erica Jong|2|6|6
+501|Sunset Express|Robert Crais|3|9|9
+502|The Crystal Cave|Mary  Stewart|2|6|6
+503|The Blade Itself|Joe Abercrombie|4|20|20
+504|Red Storm Rising|Tom Clancy|4|7|7
+505|Sweetheart|Chelsea Cain|2|20|20
+506|My Blood Approves|Amanda Hocking|1|9|9
+507|The BFG|Roald Dahl Quentin Blake|4|14|14
+508|River God|Wilbur Smith|2|8|8
+509|Owen|Kevin Henkes|3|9|9
+510|The Hollow|Nora Roberts|2|11|11
+511|The Hit|David Baldacci|3|18|18
+512|Strangers in Death |J.D. Robb|3|7|7
+513|Ten Tiny Breaths|K.A. Tucker|2|8|8
+514|Living Dead Girl|Elizabeth Scott|4|5|5
+515|Blockade Billy|Stephen King|4|15|15
+516|Chasing Harry Winston|Lauren Weisberger|3|16|16
+517|MEG: A Novel of Deep Terror|Steve Alten|4|6|6
+518|The Fog|James Herbert|2|13|13
+519|Belong to Me|Marisa de los Santos|3|6|6
+520|Dragonsinger|Anne McCaffrey|3|7|7
+521|To Have and to Hold |Jane Green|3|17|17
+522|The Best Man|Kristan Higgins|1|9|9
+523|Maine|J. Courtney Sullivan|4|16|16
+524|The Overlook|Michael Connelly|2|19|19
+525|Babyville|Jane Green|3|18|18
+526|Olympos|Dan Simmons|4|10|10
+527|John Dies at the End|David Wong|1|9|9
+528|Black Cherry Blues|James Lee Burke|1|12|12
+529|Succubus On Top|Richelle Mead|2|17|17
+530|Honolulu|Alan Brennert|4|17|17
+531|Dreamland |Sarah Dessen|4|12|12
+532|Victims|Jonathan Kellerman|4|12|12
+533|A Midsummer's Nightmare|Kody Keplinger|2|13|13
+534|Midnight's Children|Salman Rushdie|1|7|7
+535|Stars Above|Marissa Meyer|1|19|19
+536|Magic Slays|Ilona Andrews|1|5|5
+537|The Son of Neptune |Rick Riordan|2|11|11
+538|Prior Bad Acts|Tami Hoag|2|9|9
+539|All Tomorrow's Parties|William Gibson|3|11|11
+540|Angel Falls|Kristin Hannah|2|18|18
+541|The Green Mile|Stephen King|4|6|6
+542|Asylum|Madeleine Roux|2|15|15
+543|The Haj|Leon Uris|4|6|6
+544|Divine Justice|David Baldacci|1|6|6
+545|Sea of Silver Light|Tad Williams|3|11|11
+546|The Awakening|L.J. Smith|3|20|20
+547|The Great Hunt|Robert Jordan|4|17|17
+548|Double Fudge|Judy Blume|2|14|14
+549|Eligible|Curtis Sittenfeld|2|8|8
+550|The Dot|Peter H. Reynolds|4|15|15
+551|Unnatural Exposure|Patricia Cornwell|1|17|17
+552|One Good Turn|Kate Atkinson|3|15|15
+553|Glass Houses|Rachel Caine|1|7|7
+554|The Johnstown Flood|David McCullough|4|5|5
+555|The Nature of the Beast|Louise Penny|1|9|9
+556|The Gemini Contenders|Robert Ludlum|1|19|19
+557|Lost Souls|Poppy Z. Brite|4|14|14
+558|My Sister's Keeper|Jodi Picoult|1|19|19
+559|Icy Sparks|Gwyn Hyman Rubio|1|10|10
+560|Street Magic|Tamora Pierce|4|13|13
+561|Think of a Number|John Verdon|2|10|10
+562|M Train|Patti Smith|3|20|20
+563|Straight Man|Richard Russo|1|6|6
+564|Cry The Beloved Country|Alan Paton|4|19|19
+565|Night Probe!|Clive Cussler|1|7|7
+566|Broken Homes|Ben Aaronovitch|1|15|15
+567|Alice in Zombieland|Gena Showalter|2|8|8
+568|City of Thieves|David Benioff|4|9|9
+569|The King of Attolia|Megan Whalen Turner|1|14|14
+570|It's Kind of a Funny Story|Ned Vizzini|2|10|10
+571|From Potter's Field|Patricia Cornwell|1|12|12
+572|Ender's Game|Orson Scott Card|3|11|11
+573|Addicted|Zane|4|13|13
+574|A Hunger Like No Other|Kresley Cole|2|13|13
+575|The Coldest Winter Ever|Sister Souljah|3|12|12
+576|The Bell Jar|Sylvia Plath|3|11|11
+577|Cosmopolis|Don DeLillo|4|14|14
+578|The Secret|Julie Garwood|4|9|9
+579|Mastiff|Tamora Pierce|2|6|6
+580|Red Rabbit|Tom Clancy|4|10|10
+581|Boneshaker |Cherie Priest|3|14|14
+582|Cross Fire|James Patterson|4|9|9
+583|The Gift|James Patterson Ned Rust|1|18|18
+584|Point of Impact|Stephen Hunter|3|10|10
+585|Cometh the Hour|Jeffrey Archer|3|17|17
+586|The Starter Wife|Gigi Levangie Grazer|3|6|6
+587|The Places In Between|Rory Stewart|3|17|17
+588|Girl in Translation|Jean Kwok|1|13|13
+589|Dark Legend|Christine Feehan|3|9|9
+590|Castle of Wizardry|David Eddings|1|6|6
+591|Surface Detail|Iain M. Banks|2|7|7
+592|The Mediterranean Caper|Clive Cussler|3|12|12
+593|The Lincoln Lawyer |Michael Connelly|4|14|14
+594|The Last Coyote|Michael Connelly|1|14|14
+595|Princess of Glass|Jessica Day George|2|19|19
+596|The Host|Stephenie Meyer|4|7|7
+597|Spider's Bite|Jennifer Estep|1|12|12
+598|Undead and Unwed|MaryJanice Davidson|3|6|6
+599|Day by Day Armageddon|J.L. Bourne|2|11|11
+600|Gateway|Frederik Pohl|2|14|14
+601|King of the Murgos|David Eddings|1|8|8
+602|P.S. I Still Love You|Jenny Han|4|5|5
+603|The Young Elites|Marie Lu|3|19|19
+604|We3|Grant Morrison Frank Quitely|1|20|20
+605|Brick Lane|Monica Ali|3|6|6
+606|To Sir Phillip With Love|Julia Quinn|4|13|13
+607|Illuminae|Amie Kaufman Jay Kristoff|2|7|7
+608|The Long Haul |Jeff Kinney|3|7|7
+609|Exit to Eden|Anne Rampling Anne Rice|2|11|11
+610|The Fold|Peter Clines|2|11|11
+611|Even Now|Karen Kingsbury|3|5|5
+612|Skellig|David Almond|1|20|20
+613|The Gashlycrumb Tinies|Edward Gorey|4|15|15
+614|Lucky You|Carl Hiaasen|1|14|14
+615|A Stolen Life|Jaycee Dugard|3|6|6
+616|Man and Boy|Tony Parsons|1|18|18
+617|The Giving Tree|Shel Silverstein|4|5|5
+618|The Selection|Kiera Cass|2|13|13
+619|Lord of the Flies |William Golding|1|19|19
+620|My Sunshine Away|M.O. Walsh|2|18|18
+621|The Last Continent|Terry Pratchett|4|12|12
+622|Castle in the Air|Diana Wynne Jones|4|13|13
+623|Winter Stroll|Elin Hilderbrand|4|19|19
+624|Wedding Night|Sophie Kinsella|2|10|10
+625|Sever|Lauren DeStefano|2|16|16
+626|A Single Man|Christopher Isherwood|1|9|9
+627|The Raven King|Maggie Stiefvater|2|15|15
+628|Fire Sea|Margaret Weis Tracy Hickman|3|13|13
+629|Night Road|Kristin Hannah|4|14|14
+630|Eyes of Prey|John Sandford|4|6|6
+631|Labyrinth|Kate Mosse|4|19|19
+632|Rock Chick|Kristen Ashley|4|19|19
+633|Hallowe'en Party|Agatha Christie|4|19|19
+634|The Scorpio Races|Maggie Stiefvater|4|14|14
+635|Moon Called|Patricia Briggs|1|16|16
+636|Proven Guilty|Jim Butcher|2|16|16
+637|Rough Country|John Sandford|1|17|17
+638|Nineteen Minutes|Jodi Picoult|2|18|18
+639|Fall on Your Knees|Ann-Marie MacDonald|4|7|7
+640|Then Came You|Jennifer Weiner|2|9|9
+641|The Mixed-Up Chameleon|Eric Carle|2|19|19
+642|Weaveworld|Clive Barker|2|8|8
+643|Switched|Amanda Hocking|2|7|7
+644|The Underworld|Jessica Sorensen|1|9|9
+645|The Passion of Artemisia|Susan Vreeland|1|6|6
+646|Catching Jordan|Miranda Kenneally|4|13|13
+647|Paradise Kiss 1|Ai Yazawa|3|13|13
+648|Open Season|Linda Howard|1|14|14
+649|Dune Messiah |Frank Herbert|3|12|12
+650|Heat Rises|Richard Castle|2|11|11
+651|Fly Away Home|Jennifer Weiner|1|20|20
+652|Starship Troopers|Robert A. Heinlein|3|13|13
+653|Apollyon|Jennifer L. Armentrout|4|19|19
+654|From Here to Eternity|James  Jones|4|9|9
+655|Rumor Has it|Jill Mansell|2|15|15
+656|Dark Angel|V.C. Andrews|3|13|13
+657|Succubus Dreams |Richelle Mead|3|8|8
+658|The Space Between Us|Thrity Umrigar|4|18|18
+659|The Paris Architect|Charles Belfoure|4|11|11
+660|The Circle|Dave Eggers|2|12|12
+661|Feast of Fools|Rachel Caine|4|15|15
+662|War Horse|Michael Morpurgo|3|13|13
+663|Lover at Last|J.R. Ward|3|14|14
+664|Sudden Prey|John Sandford|1|8|8
+665|A Game of Thrones|George R.R. Martin|3|19|19
+666|Nation|Terry Pratchett|3|9|9
+667|Room|Emma Donoghue|1|5|5
+668|Spell Bound|Rachel Hawkins|4|16|16
+669|Mariana|Susanna Kearsley|3|15|15
+670|Pretty Girls|Karin Slaughter|3|18|18
+671|Are You My Mother?|P.D. Eastman|3|8|8
+672|Love Medicine|Louise Erdrich|3|13|13
+673|Devil May Cry|Sherrilyn Kenyon|2|20|20
+674|Shantaram|Gregory David Roberts|4|17|17
+675|Luck in the Shadows|Lynn Flewelling|1|8|8
+676|The Day of the Jackal|Frederick Forsyth|4|8|8
+677|The Stainless Steel Rat|Harry Harrison|4|6|6
+678|The Hotel New Hampshire|John Irving|1|12|12
+679|The Woman in Cabin 10|Ruth Ware|4|6|6
+680|Nobody's Fool|Richard Russo|3|6|6
+681|Bridge to Haven|Francine Rivers|4|10|10
+682|A Tree Grows In Brooklyn |Betty  Smith|4|11|11
+683|Great House|Nicole Krauss|4|7|7
+684|Ramona Quimby Age 8|Beverly Cleary|3|9|9
+685|Fool|Christopher Moore|1|15|15
+686|Moriarty|Anthony Horowitz|3|14|14
+687|The Turner House|Angela Flournoy|4|16|16
+688|The Rivers of Zadaa|D.J. MacHale|3|8|8
+689|You Had Me At Hello|Mhairi McFarlane|3|15|15
+690|Fool Moon |Jim Butcher|2|6|6
+691|Quicksilver|Neal Stephenson|3|19|19
+692|What Happened to Goodbye|Sarah Dessen|2|18|18
+693|The Body Farm|Patricia Cornwell|1|10|10
+694|The Merchant of Death|D.J. MacHale|1|18|18
+695|The Son of Sobek|Rick Riordan|2|17|17
+696|The Complete Maus|Art Spiegelman|1|8|8
+697|Insatiable|Meg Cabot|3|20|20
+698|High Noon|Nora Roberts|2|6|6
+699|Angels|Marian Keyes|3|16|16
+700|Once a Runner|John L. Parker Jr.|2|9|9
+701|A Million Suns |Beth Revis|2|17|17
+702|Behind Her Eyes|Sarah Pinborough|2|19|19
+703|The Yearling|Marjorie Kinnan Rawlings|4|11|11
+704|Party Princess|Meg Cabot|3|8|8
+705|No Mercy|Sherrilyn Kenyon|2|20|20
+706|Rhett Butler's People|Donald McCaig|3|10|10
+707|Scorpia|Anthony Horowitz|2|12|12
+708|L is for Lawless|Sue Grafton|4|19|19
+709|Rainbow Boys|Alex   Sanchez|2|7|7
+710|The Tenth Insight |James Redfield|3|15|15
+711|Presumed Innocent|Scott Turow|4|14|14
+712|Thunderstruck|Erik Larson|1|15|15
+713|The Shoemaker's Wife|Adriana Trigiani|2|19|19
+714|A Little Life|Hanya Yanagihara|1|13|13
+715|Glitter and Glue|Kelly Corrigan|3|18|18
+716|Gathering Prey|John Sandford|2|20|20
+717|Perfect Chemistry|Simone Elkeles|3|16|16
+718|The High King |Lloyd Alexander|1|17|17
+719|The Astronaut Wives Club|Lily Koppel|4|5|5
+720|When Calls the Heart|Janette Oke|3|12|12
+721|The Sum of All Men|David Farland|4|9|9
+722|Lost|Gregory Maguire Douglas Smith|1|9|9
+723|The Naked Face|Sidney Sheldon|3|14|14
+724|Underworld|Don DeLillo|3|13|13
+725|This Savage Song|Victoria Schwab|1|5|5
+726|The Dragonbone Chair|Tad Williams|2|5|5
+727|The Fault in Our Stars|John Green|4|11|11
+728|Tiger's Voyage|Colleen Houck|1|10|10
+729|The Wasp Factory|Iain Banks|2|14|14
+730|Split Second|David Baldacci|4|20|20
+731|Blindsighted|Karin Slaughter|3|13|13
+732|Since You've Been Gone|Morgan Matson|3|19|19
+733|Mirror Dance|Lois McMaster Bujold|2|8|8
+734|Angelology|Danielle Trussoni|1|19|19
+735|Blameless|Gail Carriger|1|14|14
+736|L'isola del giorno prima|Umberto Eco|2|16|16
+737|Diamonds are Forever|Ian Fleming|2|17|17
+738|Up From the Grave |Jeaniene Frost|3|8|8
+739|Singularity Sky|Charles Stross|1|11|11
+740|Waiting to Exhale|Terry McMillan|1|14|14
+741|The Red Badge of Courage|Stephen Crane|3|8|8
+742|River Marked|Patricia Briggs|3|17|17
+743|Stone Cold|David Baldacci|1|9|9
+744|Rachel's Holiday|Marian Keyes|2|19|19
+745|The Book of Shadows|Paula Brackston|4|16|16
+746|The Patron Saint of Liars|Ann Patchett|1|11|11
+747|Sizzling Sixteen|Janet Evanovich|1|8|8
+748|The Bonfire of the Vanities|Tom Wolfe|4|17|17
+749|Paddy Clarke Ha Ha Ha|Roddy Doyle|4|20|20
+750|Mad About the Boy|Helen Fielding|1|5|5
+751|My Name Is Mary Sutter|Robin Oliveira|1|13|13
+752|Infinite Jest|David Foster Wallace|2|9|9
+753|The Ghost Brigades|John Scalzi|4|15|15
+754|Another Fine Myth|Robert Lynn Asprin|1|9|9
+755|To The Lighthouse |Virginia Woolf|1|14|14
+756|Heaven|Alexandra Adornetto|4|18|18
+757|Captain's Fury|Jim Butcher|3|11|11
+758|Night World No. 3|L.J. Smith|1|6|6
+759|David Gets in Trouble|David Shannon|1|9|9
+760|Beautiful Stranger|Christina Lauren|3|9|9
+761|Grave Surprise|Charlaine Harris|2|17|17
+762|Empire of Ivory|Naomi Novik|1|5|5
+763|The Lace Reader|Brunonia Barry|2|11|11
+764|Curious George|H.A. Rey|4|16|16
+765|Dance Upon The Air|Nora Roberts|4|20|20
+766|Hausfrau|Jill Alexander Essbaum|4|6|6
+767|The Bone People|Keri Hulme|1|16|16
+768|A Rose for Emily|William Faulkner|3|5|5
+769|Strip Tease|Carl Hiaasen|4|17|17
+770|Frog and Toad Are Friends|Arnold Lobel|2|9|9
+771|Uglies|Scott Westerfeld|1|11|11
+772|Fool's Fate|Robin Hobb|3|12|12
+773|White Witch Black Curse|Kim Harrison|1|11|11
+774|Children of God|Mary Doria Russell|3|11|11
+775|Total Control|David Baldacci|3|15|15
+776|The Chosen|Chaim Potok|3|13|13
+777|Terms of Endearment|Larry McMurtry|2|9|9
+778|Nachfolge|Dietrich Bonhoeffer|2|11|11
+779|The Virgin Cure|Ami McKay|2|16|16
+780|From Russia with Love|Ian Fleming|3|8|8
+781|Okay for Now|Gary D. Schmidt|1|9|9
+782|Anil's Ghost|Michael Ondaatje|3|15|15
+783|Fang|James Patterson|2|19|19
+784|You Can Heal Your Life|Louise L. Hay|2|8|8
+785|Still Life with Woodpecker|Tom Robbins|2|14|14
+786|Waterfall|Lisa Tawn Bergren|2|19|19
+787|Ilse Witch |Terry Brooks|2|9|9
+788|The Lost Wife|Alyson Richman|2|11|11
+789|Greenwitch|Susan Cooper|4|18|18
+790|Tell No One|Harlan Coben|3|15|15
+791|Deity|Jennifer L. Armentrout|3|14|14
+792|Girls in White Dresses|Jennifer Close|4|11|11
+793|Debt Inheritance|Pepper Winters|4|7|7
+794|The Notebook|Nicholas Sparks|3|8|8
+795|From the Corner of His Eye|Dean Koontz|3|20|20
+796|Prodigal Summer|Barbara Kingsolver|2|16|16
+797|Stellaluna|Janell Cannon|3|12|12
+798|Ghost World|Daniel Clowes|1|13|13
+799|The Birth of Venus|Sarah Dunant|1|19|19
+800|Sins of the Night|Sherrilyn Kenyon|2|15|15
+801|The Search|Nora Roberts|2|18|18
+802|Brokeback Mountain|Annie Proulx|2|12|12
+803|Blow Fly|Patricia Cornwell|4|11|11
+804|Lone Wolf|Jodi Picoult|1|7|7
+805|Hallowed|Cynthia Hand|4|7|7
+806|Servant of the Bones|Anne Rice|2|13|13
+807|The Selfish Gene|Richard Dawkins|3|19|19
+808|Prey|Michael Crichton|3|17|17
+809|The Line of Beauty|Alan Hollinghurst|4|6|6
+810|Hannibal Rising|Thomas Harris|2|19|19
+811|The Source|James A. Michener|3|13|13
+812|A Reliable Wife|Robert Goolrick|4|19|19
+813|The Bourne Identity|Robert Ludlum|2|14|14
+814|The Evolutionary Void|Peter F. Hamilton|1|5|5
+815|Small Favor|Jim Butcher|4|20|20
+816|The Grapes of Wrath|John Steinbeck|4|15|15
+817|Ringworld|Larry Niven|2|5|5
+818|The Return of the King|J.R.R. Tolkien|3|14|14
+819|Being Nikki|Meg Cabot|3|15|15
+820|Dawn|Erin Hunter|4|14|14
+821|Losing It|Cora Carmack|2|10|10
+822|The Blind Assassin|Margaret Atwood|3|13|13
+823|Descent|Tim Johnston|2|16|16
+824|The Omnivore's Dilemma|Michael Pollan|4|5|5
+825|King of Foxes|Raymond E. Feist|4|11|11
+826|Eternal Rider|Larissa Ione|1|15|15
+827|The Other Side of Dawn|John Marsden|1|16|16
+828|The Diviners|Libba Bray|4|14|14
+829|Valley of the Dolls|Jacqueline Susann|1|6|6
+830|Shatterglass|Tamora Pierce|1|10|10
+831|Dawn|Octavia E. Butler|3|15|15
+832|Boy Meets Girl|Meg Cabot|2|8|8
+833|The Grand Sophy|Georgette Heyer|3|7|7
+834|Mortal Coil|Derek Landy|2|18|18
+835|Desperation|Stephen King|3|19|19
+836|A Long Walk to Water|Linda Sue Park|1|14|14
+837|Honor Among Enemies|David Weber|1|6|6
+838|Heir of Novron|Michael J. Sullivan|2|7|7
+839|The Copper Beech|Maeve Binchy|2|9|9
+840|Forward the Foundation|Isaac Asimov|3|18|18
+841|The Rumor|Elin Hilderbrand|3|14|14
+842|Strong Poison|Dorothy L. Sayers|2|11|11
+843|Gone for Good|Harlan Coben|1|16|16
+844|Genesis|Karin Slaughter|1|5|5
+845|Magic Bites|Ilona Andrews|3|6|6
+846|Hatchet|Gary Paulsen|2|14|14
+847|Dead and Gone|Charlaine Harris|4|9|9
+848|Code Name Verity|Elizabeth Wein|3|18|18
+849|Hourglass|Myra McEntire|2|10|10
+850|Theft of Swords|Michael J. Sullivan|2|5|5
+851|Dare Me|Megan Abbott|4|7|7
+852|The Compound|S.A. Bodeen|1|6|6
+853|The Sword Thief|Peter Lerangis|3|15|15
+854|I Want My Hat Back|Jon Klassen|2|15|15
+855|The Forgotten Garden|Kate Morton|4|5|5
+856|Nine Stories|J.D. Salinger|3|9|9
+857|Yes Please|Amy Poehler|1|20|20
+858|Bel Canto|Ann Patchett|3|20|20
+859|Blue Monday|Nicci French|3|8|8
+860|Charmed Life |Diana Wynne Jones|3|19|19
+861|I Am Ozzy|Ozzy Osbourne Chris Ayres|1|8|8
+862|Devil Bones|Kathy Reichs|3|13|13
+863|Driving Miss Daisy|Alfred Uhry|2|18|18
+864|The Negotiator|Dee Henderson|1|19|19
+865|The Perfect Hope|Nora Roberts|4|9|9
+866|In the Lake of the Woods|Tim O'Brien|3|13|13
+867|Trapped |Kevin Hearne|1|19|19
+868|Physik|Angie Sage Mark Zug|1|13|13
+869|Orlando: A Biography|Virginia Woolf|1|7|7
+870|A Fire Upon The Deep|Vernor Vinge|4|14|14
+871|Day After Night|Anita Diamant|4|7|7
+872|The Help|Kathryn Stockett|4|12|12
+873|Mercy Blade|Faith Hunter|1|20|20
+874|Nightshade|Andrea Cremer|4|5|5
+875|The Beach|Alex Garland|4|20|20
+876|Private|Kate Brian|4|8|8
+877|Calling Me Home|Julie Kibler|4|5|5
+878|Counting by 7s|Holly Goldberg Sloan|2|15|15
+879|Dear John|Nicholas Sparks|4|9|9
+880|East of Eden  |John Steinbeck|3|16|16
+881|Faefever|Karen Marie Moning|1|6|6
+882|Just Listen|Sarah Dessen|3|14|14
+883|Housekeeping|Marilynne Robinson|2|12|12
+884|Forest Mage|Robin Hobb|3|14|14
+885|Cranford|Elizabeth Gaskell|1|5|5
+886|First Rider's Call|Kristen Britain|2|8|8
+887|Night over Water|Ken Follett|2|19|19
+888|L.A. Candy|Lauren Conrad|1|10|10
+889|Everyman|Philip Roth|4|14|14
+890|Winter Moon|Dean Koontz|2|18|18
+891|Kushiel's Justice|Jacqueline Carey|2|9|9
+892|The Prisoner of Zenda|Anthony Hope|2|7|7
+893|Jewels of the Sun|Nora Roberts|2|14|14
+894|Briar's Book|Tamora Pierce|3|13|13
+895|Dragon bound|Thea Harrison|2|17|17
+896|The Enchanted Wood|Enid Blyton|1|9|9
+897|How the Mind Works|Steven Pinker|4|16|16
+898|The Giver|Lois Lowry|2|11|11
+899|Executive Power|Vince Flynn|2|16|16
+900|The Virgin's Lover|Philippa Gregory|2|9|9
+901|Magic Binds|Ilona Andrews|4|8|8
+902|Rumble Fish|S.E. Hinton|4|16|16
+903|Gemeinsames Leben|Dietrich Bonhoeffer|2|19|19
+904|The Stranger|Harlan Coben|3|15|15
+905|Jewel (Oprah's Book Club) |Bret Lott|4|18|18
+906|Northern Lights|Philip Pullman|2|15|15
+907|Deliverance|James Dickey|2|6|6
+908|The Castaways|Elin Hilderbrand|4|20|20
+909|The Birth House|Ami McKay|4|15|15
+910|Fox in Socks|Dr. Seuss|2|15|15
+911|I Shall Wear Midnight|Terry Pratchett|3|7|7
+912|The Autumn Republic |Brian  McClellan|3|16|16
+913|Iced|Karen Marie Moning|4|16|16
+914|Leaving Time|Jodi Picoult|3|6|6
+915|The Moor's Last Sigh|Salman Rushdie|3|18|18
+916|One|Richard Bach|4|11|11
+917|Sieben Jahre in Tibet|Heinrich Harrer|3|12|12
+918|Blackberry Winter|Sarah Jio|1|5|5
+919|I Capture the Castle|Dodie Smith|2|10|10
+920|The Ruby Circle|Richelle Mead|4|16|16
+921|Taken|Robert Crais|1|7|7
+922|Between Georgia|Joshilyn Jackson|1|6|6
+923|Shugo Chara! 1 (Shugo Chara!)|Peach-Pit|1|13|13
+924|Kindred|Octavia E. Butler|3|14|14
+925|Rumors|Anna Godbersen|1|5|5
+926|Lover Revealed|J.R. Ward|3|14|14
+927|Before I Fall|Lauren Oliver|4|14|14
+928|Death on the Nile|Agatha Christie|1|10|10
+929|Great Expectations|Charles Dickens|1|18|18
+930|The Rescue|Nicholas Sparks|2|13|13
+931|The Cradle Will Fall|Mary Higgins Clark|3|7|7
+932|Relic|Douglas Preston Lincoln Child|3|7|7
+933|Fever|Maya Banks|2|5|5
+934|The Odd Couple|Neil Simon|4|7|7
+935|Caught|Harlan Coben|4|9|9
+936|Getting Over It|Anna Maxted|4|10|10
+937|The Hydrogen Sonata|Iain M. Banks|4|9|9
+938|Matter|Iain M. Banks|3|18|18
+939|Excession|Iain M. Banks|1|18|18
+940|My Stroke of Insight|Jill Bolte Taylor|3|10|10
+941|The Chosen One|Carol Lynch Williams|2|14|14
+942|Robopocalypse|Daniel H. Wilson|3|6|6
+943|The Island of Dr. Moreau|H.G. Wells|1|5|5
+944|Matilda|Roald Dahl Quentin Blake|2|8|8
+945|Double Whammy|Carl Hiaasen|4|18|18
+946|Black Swan Green|David Mitchell|1|16|16
+947|Secrets of a Summer Night|Lisa Kleypas|1|15|15
+948|Jitterbug Perfume|Tom Robbins|1|19|19
+949|A Summer Affair|Elin Hilderbrand|2|19|19
+950|The Book of Illusions|Paul Auster|4|16|16
+951|Microserfs|Douglas Coupland|2|19|19
+952|Home Front|Kristin Hannah|4|9|9
+953|Exodus|Leon Uris|2|16|16
+954|Nevermore|Kelly Creagh|1|13|13
+955|A Faint Cold Fear|Karin Slaughter|2|17|17
+956|The Unlikely Spy|Daniel Silva|1|15|15
+957|Holding the Dream|Nora Roberts|3|9|9
+958|How to Save a Life|Sara Zarr|1|6|6
+959|The Walk|Richard Paul Evans|1|17|17
+960|Luckiest Girl Alive|Jessica Knoll|4|7|7
+961|Angle of Repose|Wallace Stegner|1|5|5
+962|Double Star|Robert A. Heinlein|3|12|12
+963|Brown Girl Dreaming|Jacqueline Woodson|3|15|15
+964|Berlin: The Downfall 1945|Antony Beevor|3|20|20
+965|Manwhore|Katy Evans|3|14|14
+966|Hideaway|Dean Koontz|1|17|17
+967|Prep|Curtis Sittenfeld|4|7|7
+968|A World Without Heroes|Brandon Mull|3|14|14
+969|Little Brother|Cory Doctorow|4|16|16
+970|Absolute Power|David Baldacci|2|19|19
+971|Texas|James A. Michener|3|13|13
+972|Harvest |Tess Gerritsen|3|5|5
+973|Another Piece of My Heart|Jane Green|1|18|18
+974|The Forsyte Saga|John Galsworthy|2|13|13
+975|Treasure|Clive Cussler|1|5|5
+976|Landline|Rainbow Rowell|3|6|6
+977|Love & Misadventure|Lang Leav|4|5|5
+978|I Claudius|Robert Graves|2|5|5
+979|How to Be a Woman|Caitlin Moran|2|16|16
+980|Alien|Alan Dean Foster|3|13|13
+981|The Summons|John Grisham|1|15|15
+982|Kiss of Frost|Jennifer Estep|3|18|18
+983|The General's Daughter|Nelson DeMille|2|19|19
+984|Betty Crocker's Cookbook|Betty Crocker|2|9|9
+985|Broken prince|Erin Watt|2|10|10
+986|Going After Cacciato|Tim O'Brien|1|5|5
+987|The Minority Report|Philip K. Dick|4|20|20
+988|Immortal in Death |J.D. Robb|1|5|5
+989|Last Night in Twisted River|John Irving|3|13|13
+990|Return|Karen Kingsbury Gary Smalley|4|12|12
+991|Deliver Us From Evil|David Baldacci|4|12|12
+992|The Acid House|Irvine Welsh|2|18|18
+993|Metro Girl|Janet Evanovich|2|11|11
+994|The Messenger|Daniel Silva|1|7|7
+995|Walking Disaster|Jamie McGuire|4|13|13
+996|The Piano Teacher|Janice Y.K. Lee|3|8|8
+997|The Pledge|Kimberly Derting|1|18|18
+998|A Painted House|John Grisham|3|9|9
+999|The Turn of the Screw|Henry James|2|9|9
+1000|Kiss the Dead|Laurell K. Hamilton|4|20|20
